@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatShopTask01", "CatShopTask01\CatShopTask01.csproj", "{66B32B1E-86C9-4443-8DE9-82E8DB17CE45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B32B1E-86C9-4443-8DE9-82E8DB17CE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B32B1E-86C9-4443-8DE9-82E8DB17CE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B32B1E-86C9-4443-8DE9-82E8DB17CE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B32B1E-86C9-4443-8DE9-82E8DB17CE45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0B4DC0-68B5-40BA-9814-E27C157CAF0F}
+	EndGlobalSection
+EndGlobal
